@@ -8,3 +8,4 @@ This is just adding the integrations and not the webhooks.
 Adding everythign again.
 This time. just a webook with the push check mark selected.
 updated the jenkins credentials. just to read only for guest.
+changed the encoding
